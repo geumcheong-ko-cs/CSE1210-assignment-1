@@ -1,6 +1,6 @@
 # CSE1210-assignment-1
 
-My URL:
+My URL:https://github.com/mariopineda/CSE1210-assignment-1/blob/master/README.md
 
 In this assignment you will be creating and customizing a web page. 
 
