@@ -1,6 +1,6 @@
 # CSE1210-assignment-1
 
-My URL:
+My URL:https://github.com/geumcheong-ko-cs/CSE1210-assignment-1
 
 In this assignment you will be creating and customizing a web page. 
 
