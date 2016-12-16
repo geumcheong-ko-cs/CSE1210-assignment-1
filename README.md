@@ -42,3 +42,20 @@ You will now replace the default web page text with your own information.
 6. Bonus Challenge: Add a picture of the country's flag to your web page.  
 
 Before turning in your assignment make sure that the web page is formatted properly and nicely. Spelling mistakes, typos and ugly formatting will all result in deductions.
+
+## Keeping up to date with the master repository
+To keep your local assignment repository up to date with your teacher's repository you need follow the following procedure from the terminal (shell in Linux and Git Shell in the Windows GitHub client).
+
+**Step 1:** The first time you are updating your repository you need to run the following command:
+```
+git remote add upstream https://github.com/mariopineda/CSE1210-assignment-1
+```
+**Step 2:** If you are using the same computer you do not have to do Step 1 in subsequent updates and you can skip right to Step 2. In this step you need to run the following two commands:
+```
+git fetch upstream
+git merge upstream/master
+```
+**Step 3:** Resolve possible merge conflicts and commit.
+
+**Step 5:** You local repository has now been updated using your teacher's master respository. Finally you need to push your local repository to GitHub to make sure that your GitHub repository is updated as well.
+
